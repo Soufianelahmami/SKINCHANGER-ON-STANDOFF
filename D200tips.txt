@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"SKINCHANGER ON STANDOFF mod 1","desc":"The sun hung low in the sky, casting long shadows across the desolate landscape of Standoff, a remote frontier town nestled in the heart of the Wild West","photo":"https://iili.io/HbCDBwX.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 2","desc":"The town was known for its lawlessness, but today it faced an unprecedented danger - a skinchanger.","photo":"https://iili.io/HbCDf9I.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 3","desc":"In the dimly lit saloon, a group of grizzled old cowboys huddled together, their faces etched with fear and uncertainty","photo":"https://iili.io/HbCDqut.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 4","desc":"They spoke in hushed tones about the legendary skinchangers, shape-shifters with the ability to assume the appearance of anyone they chose.","photo":"https://iili.io/HbCDCtn.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 5","desc":"The swinging doors of the saloon burst open, and a stranger clad in a tattered poncho and wide-brimmed hat stepped in. His name was Jack Cutter,","photo":"https://iili.io/HbCDons.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 6","desc":"a notorious bounty hunter known for his relentless pursuit of outlaws. He had come to Standoff on a mission - to hunt down the skinchanger.","photo":"https://iili.io/HbCsLmu.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 7","desc":"Jack began his investigation by questioning the townsfolk. Each interview revealed more about the skinchanger's cunning methods and the fear that had gripped the town. Jack was determined to put an end to this menace, no matter the cost.","photo":"https://iili.io/HbCDTF4.webp"},
+  {"title":"SKINCHANGER ON STANDOFF mod 8","desc":"As the sun dipped below the horizon, Jack found himself face to face with the skinchanger in a deserted alley. The tension was palpable as the two adversaries locked eyes. A deadly showdown was inevitable.","photo":"https://iili.io/HbCDzPf.webp"}
    ]
  
 }
